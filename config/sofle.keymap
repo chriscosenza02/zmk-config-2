@@ -17,6 +17,8 @@
 
 / {
 
+studio_unlock;
+
    // Activate ADJUST layer by pressing raise and lower
     conditional_layers {
         compatible = "zmk,conditional-layers";
